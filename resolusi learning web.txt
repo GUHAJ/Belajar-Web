@@ -1,5 +1,4 @@
 #Resolusi Learning Web
 - Target tahun ini bisa belajar javascrpit
--  Hello World
 - Mulai belajar github 01/07/2024
 - Membangun aplikasi yang berguna bagi masyarakat
