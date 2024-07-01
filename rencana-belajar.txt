@@ -2,6 +2,7 @@
 - Belajar Bahasa Pemograman JavaScript
   -Belajar OOP
   -Belajar Async
+-Membangun aplikasi 
 -Belajar Github
 -Belajar Bahasa Inggris
 -Menjadi ketua pelaksana bincang dosen
