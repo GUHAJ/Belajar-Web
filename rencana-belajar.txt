@@ -3,9 +3,8 @@
   -Belajar OOP
   -Belajar Async
 -Membangun aplikasi 
-  ^ To do list
-  ^ Count
-  ^ Button
+  ^ Kalkulator
+  ^ Web Portfolio
 -Belajar Github
 -Belajar Bahasa Inggris
 -Menjadi ketua pelaksana bincang dosen
