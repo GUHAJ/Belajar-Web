@@ -3,6 +3,8 @@
   -Belajar OOP
   -Belajar Async
 -Membangun aplikasi 
+  ^ To do list
+  ^ Count
 -Belajar Github
 -Belajar Bahasa Inggris
 -Menjadi ketua pelaksana bincang dosen
